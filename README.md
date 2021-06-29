@@ -1,2 +1,2 @@
-# Simple-Layer-Perceptron
-Using Simple Layer Perceptron for Iris Dataset
+# Single-Layer-Perceptron
+Using Single Layer Perceptron for Iris Dataset
